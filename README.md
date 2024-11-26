@@ -1,6 +1,6 @@
 ### Deep Learning Framework Testing via Model Mutation: How Far Are We?
 
-This is the open repository of our ICSE 2025 paper:  Deep Learning Framework Testing via Model Mutation: How Far Are We?
+This is the open repository of our IEEE Transactions on Software Engineering paper:  Deep Learning Framework Testing via Model Mutation: How Far Are We?
 
 #### Description ####
 
